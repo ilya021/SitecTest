@@ -1,0 +1,5 @@
+C:\Users\ilya-\source\repos\TestTask\TestTask\bin\Release\net5.0-windows\publish\TestTask.exe
+C:\Users\ilya-\source\repos\TestTask\TestTask\bin\Release\net5.0-windows\publish\TestTask.dll
+C:\Users\ilya-\source\repos\TestTask\TestTask\bin\Release\net5.0-windows\publish\TestTask.deps.json
+C:\Users\ilya-\source\repos\TestTask\TestTask\bin\Release\net5.0-windows\publish\TestTask.runtimeconfig.json
+C:\Users\ilya-\source\repos\TestTask\TestTask\bin\Release\net5.0-windows\publish\TestTask.pdb
